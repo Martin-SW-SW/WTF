@@ -1,0 +1,11 @@
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.exe
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.deps.json
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.runtimeconfig.json
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.runtimeconfig.dev.json
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.dll
+C:\c#_code\WTF\bin\Debug\netcoreapp3.1\wtf.pdb
+C:\c#_code\WTF\obj\Debug\netcoreapp3.1\wtf.csprojAssemblyReference.cache
+C:\c#_code\WTF\obj\Debug\netcoreapp3.1\wtf.AssemblyInfoInputs.cache
+C:\c#_code\WTF\obj\Debug\netcoreapp3.1\wtf.AssemblyInfo.cs
+C:\c#_code\WTF\obj\Debug\netcoreapp3.1\wtf.dll
+C:\c#_code\WTF\obj\Debug\netcoreapp3.1\wtf.pdb
